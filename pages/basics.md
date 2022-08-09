@@ -12,4 +12,4 @@ See it on 1.7x , though these are small videos
 
 ***
 
-[Next: Some advance concepts](pages/advance.md)
+[Next: Some advance concepts](advance.md)

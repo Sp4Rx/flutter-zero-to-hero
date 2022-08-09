@@ -14,4 +14,4 @@ This playlist contains more advance concepts including the above videos. Should 
 
 ***
 
-[Next: Some flutter widgets worth mentioning](pages/widgets.md)
+[Next: Some flutter widgets worth mentioning](widgets.md)
