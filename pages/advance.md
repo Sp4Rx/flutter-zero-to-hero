@@ -12,4 +12,6 @@ This playlist contains more advance concepts including the above videos. Should 
 
 [https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2](https://www.youtube.com/playlist?list=PLjxrf2q8roU2HdJQDjJzOeO6J3FoFLWr2)
 
+***
+
 [Next: Some flutter widgets worth mentioning](pages/widgets.md)
