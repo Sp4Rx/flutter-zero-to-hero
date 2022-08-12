@@ -1,7 +1,5 @@
 # Flutter Basic Concepts
 
-**Basic getting started Guide for Flutter**
-
 See these 4 episodes to get a brief idea how flutter works.
 See it on 1.7x , though these are small videos
 
