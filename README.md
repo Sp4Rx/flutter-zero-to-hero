@@ -13,7 +13,8 @@ These are choosen based on the content and the quality of the videos. Though sug
 
 1. [How to Setup Flutter on Android Studio?](pages/install.md)
 2. [Flutter Basic Concepts](pages/basics.md)
-3. [Some advance concepts](pages/advance.md)
-4. [Some flutter widgets worth mentioning](pages/widgets.md)
+3. [How to write code in flutter](https://docs.flutter.dev/get-started/codelab)
+4. [Some advance concepts](pages/advance.md)
+5. [Some flutter widgets worth mentioning](pages/widgets.md)
 
 Without further ado [click here](pages/install.md) to start your journey.
